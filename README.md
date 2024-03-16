@@ -1,6 +1,13 @@
 ### Hey, i'm Steve
 
 I'm a french JS developer. I create complete web apps mainly using React.js and Node.js. 
+
+<a href="https://www.linkedin.com/in/stevemothmora/"><img src="./icons/linkedin/LI-In-Bug.webp" /></a>
+
+
+<!-- <a href="https://www.linkedin.com/in/stevemothmora/"><img src="./icons/Medium/medium-50.png" /></a> -->
+<!-- ![alt](./icons/linkedin/LI-In-Bug.webp) -->
+
 <!--
 **Steviggio/Steviggio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
