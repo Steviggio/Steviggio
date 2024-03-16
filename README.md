@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hey, i'm Steve
 
+I'm a french JS developer. I create complete web apps mainly using React.js and Node.js. 
 <!--
 **Steviggio/Steviggio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
